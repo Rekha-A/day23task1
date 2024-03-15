@@ -1,0 +1,13 @@
+.content{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: left;
+      text-align: center;
+      gap: 20px;
+      margin-left: 10px;
+
+}
+.card-img-top{
+      height: 300px;
+      width: 350px;
+}
